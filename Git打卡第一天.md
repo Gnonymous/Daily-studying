@@ -21,6 +21,6 @@ git reset --hard "操作编号"//更新代码
 
 
 
-![image-20220517024047183](C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220517024047183.png)
+![image-20220517024047183](https://github.com/Gnonymous/Daily-studying/blob/main/Git%20photos/image-20220517024047183.png?raw=true)
 
-![image-20220517024325975](C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220517024325975.png)
+![image-20220517024325975](https://github.com/Gnonymous/Daily-studying/blob/main/Git%20photos/image-20220517024325975.png?raw=true)
