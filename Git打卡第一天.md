@@ -17,7 +17,7 @@ git reset --hard "操作编号"//更新代码
 
 > 明日目标：学会链接remote repository
 
-![](C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220517023711393.png)
+![](https://github.com/Gnonymous/Daily-studying/blob/main/Git%20photos/image-20220517023711393.png?raw=true)
 
 
 
