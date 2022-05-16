@@ -1,4 +1,4 @@
-# Git打卡第一天
+# Git Day 01
 
 > 掌握内容：git创建和操作local repository 的相关操作。
 
