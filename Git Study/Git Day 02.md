@@ -23,8 +23,8 @@ git merge		//在master分支下进行合并
 git clone ""
 ```
 
-![image-20220520013047358](C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220520013047358.png)
+![image-20220520013047358]([C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220520013047358.png](https://github.com/Gnonymous/Daily-studying/blob/main/Git%20photos/image-20220520013047358.png))
 
-![image-20220520013250877](C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220520013250877.png)
+![image-20220520013250877]([C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220520013250877.png](https://github.com/Gnonymous/Daily-studying/blob/main/Git%20photos/image-20220520013250877.png))
 
-![image-20220520013418024](C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220520013418024.png)
+![image-20220520013418024]([C:\Users\Detachment\AppData\Roaming\Typora\typora-user-images\image-20220520013418024.png](https://github.com/Gnonymous/Daily-studying/blob/main/Git%20photos/image-20220520013418024.png))
